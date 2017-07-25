@@ -1,0 +1,59 @@
+body{
+background: #ffdddd;
+
+}
+
+.contenido {
+ padding: 20px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.buscador{
+ background: #ff479d;
+ text-align: center;
+ align-items: center;
+ height: 260px;
+ float: left;
+ width: 400px;
+ border: 10px solid  #ffdddd;
+
+}
+
+#resultado{
+	float: left;
+	border: 10px solid #ff479d;
+	width: 330px;
+
+}
+table {  
+	background: grey;
+	color: #333; 
+	font-family: Helvetica, Arial; 
+	width: 640px; 
+	border-collapse: collapse;
+	border: grey 2px solid;
+}
+
+td, th { 
+	border: 1px solid transparent; 
+	height: 30px; 
+}
+
+td {
+ background: #FAFAFA; 
+ text-align: center; }
+
+ .formulario {
+ background: #ff479d;
+ text-align: center;
+ align-items: center;
+ height: 300px;
+ width: 500px;
+ float: left;
+ border: 10px solid  #ffdddd;
+
+}
